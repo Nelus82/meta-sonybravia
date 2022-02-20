@@ -27,6 +27,6 @@ If you cannot find the options in your Settings menu. You may need to enable Pro
 - Select a room which the device should be added.
 - Setup the device acording your needs
 
-I want to thank Jac and Markus M for helping me and for creating this fantastic piece of software that brings our Neeo to life (as it was intended).
+I want to thank Jac459 and MarkusM for helping me and for creating this fantastic piece of software that brings our Neeo to life (as it was intended).
 
 Telegram Group: https://t.me/joinchat/NocMDU9RCVP9hSCJxPsCEg
