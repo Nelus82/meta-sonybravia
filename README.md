@@ -1,4 +1,4 @@
-# meta-sonybravia-driver
+# meta-sonybravia
 
 ## General
 This driver is to control your Sony Bravia from your Neeo with help of meta2 (https://github.com/jac459/meta). It should work for most Sony Bravia TV's, but button commands may differ between different devices. I made it as simple as possible for my needs. The driver uses the REST API and IRCC-IP of Sony Bravia (https://pro-bravia.sony.net/develop/integrate/ip-control/index.html). If you miss something do not hesitate to ask or help.
